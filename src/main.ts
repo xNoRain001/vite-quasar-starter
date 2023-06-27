@@ -8,6 +8,7 @@ import router from './router'
 import './index.css'
 import 'quasar/src/css/index.sass'
 import '@quasar/extras/material-icons/material-icons.css'
+import 'virtual:svg-icons-register'
 
 const app = createApp(App)
 const pinia = createPinia()
